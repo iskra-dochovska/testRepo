@@ -1,0 +1,56 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+var exports = {};
+exports.id = "pages/api/data";
+exports.ids = ["pages/api/data"];
+exports.modules = {
+
+/***/ "next/dist/compiled/next-server/pages-api.runtime.dev.js":
+/*!**************************************************************************!*\
+  !*** external "next/dist/compiled/next-server/pages-api.runtime.dev.js" ***!
+  \**************************************************************************/
+/***/ ((module) => {
+
+module.exports = require("next/dist/compiled/next-server/pages-api.runtime.dev.js");
+
+/***/ }),
+
+/***/ "(api)/./node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js?kind=PAGES_API&page=%2Fapi%2Fdata&preferredRegion=&absolutePagePath=.%2Fpages%5Capi%5Cdata.ts&middlewareConfigBase64=e30%3D!":
+/*!**************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js?kind=PAGES_API&page=%2Fapi%2Fdata&preferredRegion=&absolutePagePath=.%2Fpages%5Capi%5Cdata.ts&middlewareConfigBase64=e30%3D! ***!
+  \**************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   config: () => (/* binding */ config),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__),\n/* harmony export */   routeModule: () => (/* binding */ routeModule)\n/* harmony export */ });\n/* harmony import */ var next_dist_server_route_modules_pages_api_module_compiled__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/server/route-modules/pages-api/module.compiled */ \"(api)/./node_modules/next/dist/server/route-modules/pages-api/module.compiled.js\");\n/* harmony import */ var next_dist_server_route_modules_pages_api_module_compiled__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(next_dist_server_route_modules_pages_api_module_compiled__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_dist_server_route_kind__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/dist/server/route-kind */ \"(api)/./node_modules/next/dist/server/route-kind.js\");\n/* harmony import */ var next_dist_build_templates_helpers__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/dist/build/templates/helpers */ \"(api)/./node_modules/next/dist/build/templates/helpers.js\");\n/* harmony import */ var _pages_api_data_ts__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./pages\\api\\data.ts */ \"(api)/./pages/api/data.ts\");\n\n\n\n// Import the userland code.\n\n// Re-export the handler (should be the default export).\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_templates_helpers__WEBPACK_IMPORTED_MODULE_2__.hoist)(_pages_api_data_ts__WEBPACK_IMPORTED_MODULE_3__, 'default'));\n// Re-export config.\nconst config = (0,next_dist_build_templates_helpers__WEBPACK_IMPORTED_MODULE_2__.hoist)(_pages_api_data_ts__WEBPACK_IMPORTED_MODULE_3__, 'config');\n// Create and export the route module that will be consumed.\nconst routeModule = new next_dist_server_route_modules_pages_api_module_compiled__WEBPACK_IMPORTED_MODULE_0__.PagesAPIRouteModule({\n    definition: {\n        kind: next_dist_server_route_kind__WEBPACK_IMPORTED_MODULE_1__.RouteKind.PAGES_API,\n        page: \"/api/data\",\n        pathname: \"/api/data\",\n        // The following aren't used in production.\n        bundlePath: '',\n        filename: ''\n    },\n    userland: _pages_api_data_ts__WEBPACK_IMPORTED_MODULE_3__\n});\n\n//# sourceMappingURL=pages-api.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwaSkvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LXJvdXRlLWxvYWRlci9pbmRleC5qcz9raW5kPVBBR0VTX0FQSSZwYWdlPSUyRmFwaSUyRmRhdGEmcHJlZmVycmVkUmVnaW9uPSZhYnNvbHV0ZVBhZ2VQYXRoPS4lMkZwYWdlcyU1Q2FwaSU1Q2RhdGEudHMmbWlkZGxld2FyZUNvbmZpZ0Jhc2U2ND1lMzAlM0QhIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQStGO0FBQ3ZDO0FBQ0U7QUFDMUQ7QUFDa0Q7QUFDbEQ7QUFDQSxpRUFBZSx3RUFBSyxDQUFDLCtDQUFRLFlBQVksRUFBQztBQUMxQztBQUNPLGVBQWUsd0VBQUssQ0FBQywrQ0FBUTtBQUNwQztBQUNPLHdCQUF3Qix5R0FBbUI7QUFDbEQ7QUFDQSxjQUFjLGtFQUFTO0FBQ3ZCO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSxLQUFLO0FBQ0wsWUFBWTtBQUNaLENBQUM7O0FBRUQiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vPzY0MzEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgUGFnZXNBUElSb3V0ZU1vZHVsZSB9IGZyb20gXCJuZXh0L2Rpc3Qvc2VydmVyL3JvdXRlLW1vZHVsZXMvcGFnZXMtYXBpL21vZHVsZS5jb21waWxlZFwiO1xuaW1wb3J0IHsgUm91dGVLaW5kIH0gZnJvbSBcIm5leHQvZGlzdC9zZXJ2ZXIvcm91dGUta2luZFwiO1xuaW1wb3J0IHsgaG9pc3QgfSBmcm9tIFwibmV4dC9kaXN0L2J1aWxkL3RlbXBsYXRlcy9oZWxwZXJzXCI7XG4vLyBJbXBvcnQgdGhlIHVzZXJsYW5kIGNvZGUuXG5pbXBvcnQgKiBhcyB1c2VybGFuZCBmcm9tIFwiLi9wYWdlc1xcXFxhcGlcXFxcZGF0YS50c1wiO1xuLy8gUmUtZXhwb3J0IHRoZSBoYW5kbGVyIChzaG91bGQgYmUgdGhlIGRlZmF1bHQgZXhwb3J0KS5cbmV4cG9ydCBkZWZhdWx0IGhvaXN0KHVzZXJsYW5kLCAnZGVmYXVsdCcpO1xuLy8gUmUtZXhwb3J0IGNvbmZpZy5cbmV4cG9ydCBjb25zdCBjb25maWcgPSBob2lzdCh1c2VybGFuZCwgJ2NvbmZpZycpO1xuLy8gQ3JlYXRlIGFuZCBleHBvcnQgdGhlIHJvdXRlIG1vZHVsZSB0aGF0IHdpbGwgYmUgY29uc3VtZWQuXG5leHBvcnQgY29uc3Qgcm91dGVNb2R1bGUgPSBuZXcgUGFnZXNBUElSb3V0ZU1vZHVsZSh7XG4gICAgZGVmaW5pdGlvbjoge1xuICAgICAgICBraW5kOiBSb3V0ZUtpbmQuUEFHRVNfQVBJLFxuICAgICAgICBwYWdlOiBcIi9hcGkvZGF0YVwiLFxuICAgICAgICBwYXRobmFtZTogXCIvYXBpL2RhdGFcIixcbiAgICAgICAgLy8gVGhlIGZvbGxvd2luZyBhcmVuJ3QgdXNlZCBpbiBwcm9kdWN0aW9uLlxuICAgICAgICBidW5kbGVQYXRoOiAnJyxcbiAgICAgICAgZmlsZW5hbWU6ICcnXG4gICAgfSxcbiAgICB1c2VybGFuZFxufSk7XG5cbi8vIyBzb3VyY2VNYXBwaW5nVVJMPXBhZ2VzLWFwaS5qcy5tYXAiXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(api)/./node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js?kind=PAGES_API&page=%2Fapi%2Fdata&preferredRegion=&absolutePagePath=.%2Fpages%5Capi%5Cdata.ts&middlewareConfigBase64=e30%3D!\n");
+
+/***/ }),
+
+/***/ "(api)/./pages/api/data.ts":
+/*!***************************!*\
+  !*** ./pages/api/data.ts ***!
+  \***************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ handler)\n/* harmony export */ });\n// api/pages/api/data.ts\n// Function to generate random data points\nconst generateRandomDataPoints = ()=>{\n    const dataPoints = [];\n    const today = new Date();\n    for(let i = 0; i < 7; i++){\n        const date = new Date(today);\n        date.setDate(today.getDate() - i);\n        dataPoints.push({\n            timestamp: date.toISOString().split('T')[0],\n            value: Math.floor(Math.random() * 30) + 1\n        });\n    }\n    return dataPoints.reverse(); // Reverse to have the latest date first\n};\n// Define the API endpoint\nfunction handler(req, res) {\n    const dataPoints = generateRandomDataPoints();\n    res.status(200).json(dataPoints);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwaSkvLi9wYWdlcy9hcGkvZGF0YS50cyIsIm1hcHBpbmdzIjoiOzs7O0FBQUEsd0JBQXdCO0FBU3hCLDBDQUEwQztBQUMxQyxNQUFNQSwyQkFBMkI7SUFDL0IsTUFBTUMsYUFBMEIsRUFBRTtJQUNsQyxNQUFNQyxRQUFRLElBQUlDO0lBRWxCLElBQUssSUFBSUMsSUFBSSxHQUFHQSxJQUFJLEdBQUdBLElBQUs7UUFDMUIsTUFBTUMsT0FBTyxJQUFJRixLQUFLRDtRQUN0QkcsS0FBS0MsT0FBTyxDQUFDSixNQUFNSyxPQUFPLEtBQUtIO1FBQy9CSCxXQUFXTyxJQUFJLENBQUM7WUFDZEMsV0FBV0osS0FBS0ssV0FBVyxHQUFHQyxLQUFLLENBQUMsSUFBSSxDQUFDLEVBQUU7WUFDM0NDLE9BQU9DLEtBQUtDLEtBQUssQ0FBQ0QsS0FBS0UsTUFBTSxLQUFLLE1BQU07UUFDMUM7SUFDRjtJQUVBLE9BQU9kLFdBQVdlLE9BQU8sSUFBSSx3Q0FBd0M7QUFDdkU7QUFFQSwwQkFBMEI7QUFDWCxTQUFTQyxRQUFRQyxHQUFtQixFQUFFQyxHQUFvQjtJQUN2RSxNQUFNbEIsYUFBYUQ7SUFDbkJtQixJQUFJQyxNQUFNLENBQUMsS0FBS0MsSUFBSSxDQUFDcEI7QUFDdkIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9hcGkvZGF0YS50cz9lZDk5Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIGFwaS9wYWdlcy9hcGkvZGF0YS50c1xyXG5pbXBvcnQgeyBOZXh0QXBpUmVxdWVzdCwgTmV4dEFwaVJlc3BvbnNlIH0gZnJvbSAnbmV4dCc7XHJcblxyXG4vLyBEZWZpbmUgdGhlIGRhdGEgcG9pbnQgaW50ZXJmYWNlXHJcbmludGVyZmFjZSBEYXRhUG9pbnQge1xyXG4gIHRpbWVzdGFtcDogc3RyaW5nO1xyXG4gIHZhbHVlOiBudW1iZXI7XHJcbn1cclxuXHJcbi8vIEZ1bmN0aW9uIHRvIGdlbmVyYXRlIHJhbmRvbSBkYXRhIHBvaW50c1xyXG5jb25zdCBnZW5lcmF0ZVJhbmRvbURhdGFQb2ludHMgPSAoKTogRGF0YVBvaW50W10gPT4ge1xyXG4gIGNvbnN0IGRhdGFQb2ludHM6IERhdGFQb2ludFtdID0gW107XHJcbiAgY29uc3QgdG9kYXkgPSBuZXcgRGF0ZSgpO1xyXG5cclxuICBmb3IgKGxldCBpID0gMDsgaSA8IDc7IGkrKykge1xyXG4gICAgY29uc3QgZGF0ZSA9IG5ldyBEYXRlKHRvZGF5KTtcclxuICAgIGRhdGUuc2V0RGF0ZSh0b2RheS5nZXREYXRlKCkgLSBpKTtcclxuICAgIGRhdGFQb2ludHMucHVzaCh7XHJcbiAgICAgIHRpbWVzdGFtcDogZGF0ZS50b0lTT1N0cmluZygpLnNwbGl0KCdUJylbMF0sIC8vIEZvcm1hdCBkYXRlIGFzIFlZWVktTU0tRERcclxuICAgICAgdmFsdWU6IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDMwKSArIDEsIC8vIFJhbmRvbSB2YWx1ZSBiZXR3ZWVuIDEgYW5kIDMwXHJcbiAgICB9KTtcclxuICB9XHJcblxyXG4gIHJldHVybiBkYXRhUG9pbnRzLnJldmVyc2UoKTsgLy8gUmV2ZXJzZSB0byBoYXZlIHRoZSBsYXRlc3QgZGF0ZSBmaXJzdFxyXG59O1xyXG5cclxuLy8gRGVmaW5lIHRoZSBBUEkgZW5kcG9pbnRcclxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gaGFuZGxlcihyZXE6IE5leHRBcGlSZXF1ZXN0LCByZXM6IE5leHRBcGlSZXNwb25zZSkge1xyXG4gIGNvbnN0IGRhdGFQb2ludHMgPSBnZW5lcmF0ZVJhbmRvbURhdGFQb2ludHMoKTtcclxuICByZXMuc3RhdHVzKDIwMCkuanNvbihkYXRhUG9pbnRzKTtcclxufVxyXG4iXSwibmFtZXMiOlsiZ2VuZXJhdGVSYW5kb21EYXRhUG9pbnRzIiwiZGF0YVBvaW50cyIsInRvZGF5IiwiRGF0ZSIsImkiLCJkYXRlIiwic2V0RGF0ZSIsImdldERhdGUiLCJwdXNoIiwidGltZXN0YW1wIiwidG9JU09TdHJpbmciLCJzcGxpdCIsInZhbHVlIiwiTWF0aCIsImZsb29yIiwicmFuZG9tIiwicmV2ZXJzZSIsImhhbmRsZXIiLCJyZXEiLCJyZXMiLCJzdGF0dXMiLCJqc29uIl0sImlnbm9yZUxpc3QiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(api)/./pages/api/data.ts\n");
+
+/***/ })
+
+};
+;
+
+// load runtime
+var __webpack_require__ = require("../../webpack-api-runtime.js");
+__webpack_require__.C(exports);
+var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next"], () => (__webpack_exec__("(api)/./node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js?kind=PAGES_API&page=%2Fapi%2Fdata&preferredRegion=&absolutePagePath=.%2Fpages%5Capi%5Cdata.ts&middlewareConfigBase64=e30%3D!")));
+module.exports = __webpack_exports__;
+
+})();
